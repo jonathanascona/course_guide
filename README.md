@@ -1,5 +1,6 @@
 # Syllabus
 
+You can [schedule a time to visit with me](https://byuistats.github.io/schedule.html), if needed.
 
 ## Overview
 
