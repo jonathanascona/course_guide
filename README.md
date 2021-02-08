@@ -1,7 +1,4 @@
----
-title: "Syllabus"
----
-
+# Syllabus
 
 
 ## Overview
