@@ -17,9 +17,15 @@ Docker is used everywhere the cloud is used.  Both data scientists and computer 
 
 Complete the [Docker 101 Tutorial](https://www.docker.com/101-tutorial) and put together a one-slide overview of what Docker is and how it is used.
 
+### Docker Deep Dive
+
+- __Partner__, _3-days_
+
+Find your passion with Docker as it relates to data science.  Look into building your own images, finding new packages or tools to add to an image, or teach new tricks.
+
 ### Figuring out Docker for Data Science
 
-- __3-Team__, _5-days_
+- __Team__, _5-days_
 
 We will use the [all-spark-notebook](https://hub.docker.com/r/jupyter/all-spark-notebook) to create our data science container where we will examine the [IRS 990 Master Files](https://drive.google.com/drive/folders/1uqm_nH0D6U8Beqyr7jLrPO1Scl5tJbKs?usp=sharing). You can download the files from the links in the [readme](https://docs.google.com/document/d/1ph6YioRu3aeXBM4IEIOS7kbUuwJyhz0yxCOIyxatffU/edit?usp=sharing) or use your BYUI login to Google drive to see the files in Google Drive.
 
