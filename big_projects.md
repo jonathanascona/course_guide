@@ -38,7 +38,7 @@ Now that we have our data, we need to get our Docker data science environment co
 
 > - __5-team__, _9-days_
 
-The [Foundation Trustee Fees: Use and Abuse](pdf/trustee_fees_final.pdf) report, The [Nonprofit Sector in Brief](https://nccs.urban.org/project/nonprofit-sector-brief#data) and [Fast Company through Civis](https://www.fastcompany.com/90356802/what-mapping-every-nonprofit-in-the-u-s-tells-us-about-the-state-of-the-industry) provide some analysis and data summaries that we can try to recreate to validate our data source.
+The [Foundation Trustee Fees: Use and Abuse](https://github.com/BYUI451/irs990_data_supplements/blob/main/trustee_fees_final.pdf) report, The [Nonprofit Sector in Brief](https://nccs.urban.org/project/nonprofit-sector-brief#data) and [Fast Company through Civis](https://www.fastcompany.com/90356802/what-mapping-every-nonprofit-in-the-u-s-tells-us-about-the-state-of-the-industry) provide some analysis and data summaries that we can try to recreate to validate our data source.
 
 ## Step 4: Telling our own story
 
