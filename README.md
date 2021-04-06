@@ -64,7 +64,7 @@ The class performance is tracked in four areas - __impact, involvement, hours, a
 
 - __Concept:__ Your team will make decisions and assignments. Make sure your team feels like you are an equal contributor.  Contributors are measured by taking responsibilities and delivering on those responsibilities. It is ok to contribute more on some projects and less on others, but your team should feel like you typically make significant contributions. 
 
-- __Class:__ _We will have multiple elements of our [big project](projects/bp.html) and 5-6 [small projects](projects.html) where you will get the opportunity to be the primary contributor.  A primary contributor is defined by providing more material and results for the project than 50% of the group members._
+- __Class:__ _We will have multiple elements of our [big project](big_project.md) and 5-6 [small projects](little_projects.md) where you will get the opportunity to be the primary contributor.  A primary contributor is defined by providing more material and results for the project than 50% of the group members._
 
 ### Involvement
 
