@@ -11,30 +11,22 @@ As we get into this course's tools, we will have 3-8 'small projects' done with 
 
 Docker is used everywhere the cloud is used.  Both data scientists and computer scientists leverage Docker in their workflows.  We will gain familiarity with the docker process but primarily use Docker as a pre-developed tool to access tools like Jupyter Notebooks, Spark, Python, and R without needing to configure our computers.
 
-### Docker 101
-
-- __Partner__, _3-days_
-
-Complete the [Docker 101 Tutorial](https://www.docker.com/101-tutorial) and put together a one-slide overview of what Docker is and how it is used.
-
-### Docker Deep Dive
-
-- __Partner__, _3-days_
-
-Find your passion with Docker as it relates to data science.  Look into building your own images, finding new packages or tools to add to an image, or teach new tricks.
-
 ### Figuring out Docker for Data Science
 
 - __Team__, _5-days_
 
 We will use the [all-spark-notebook](https://hub.docker.com/r/jupyter/all-spark-notebook) to create our data science container where we will examine the [IRS 990 Master Files](https://drive.google.com/drive/folders/1uqm_nH0D6U8Beqyr7jLrPO1Scl5tJbKs?usp=sharing). You can download the files from the links in the [readme](https://docs.google.com/document/d/1ph6YioRu3aeXBM4IEIOS7kbUuwJyhz0yxCOIyxatffU/edit?usp=sharing) or use your BYUI login to Google drive to see the files in Google Drive.
 
-The IRS provides a few Master Files that list all [Exempt Organizations](https://www.irs.gov/charities-non-profits/exempt-organizations-business-master-file-extract-eo-bmf) with over 2 million organizations listed. 
-
-Complete an exploratory analysis that provides a summary and story of the data provided.  This report should include at least ten charts, three tables, and multiple paragraphs.
+The IRS provides a few Master Files that list all [Exempt Organizations](https://www.irs.gov/charities-non-profits/exempt-organizations-business-master-file-extract-eo-bmf) with over 2 million organizations listed. Complete an exploratory analysis that provides a summary and story of the data provided.  
 
 1. Python and pandas
 2. R and dplyr
+
+### Docker Deep Dive
+
+- __Partner__, _3-days_
+
+Find your passion with Docker as it relates to data science.  Look into building your own images, finding new packages or tools to add to an image, or teach new tricks.
 
 
 ## Finding that Spark
@@ -49,19 +41,15 @@ The general part means that it can be used for multiple things like running dist
 
 - __3-Team__, _5-days_
 
-Repeat the __Figuring out Docker for Data Science__ project using;
+Clean and format the data to support a recommendation engine for book distribution within the Seattle public library branches.
 
-1. pyspark and sparksql
-2. sparklyr or sparkr 
+https://github.com/BYUI451/project_library
 
 ### Machine Learning with Spark (MLib)
 
 - __3-Team__, _5-days_
 
-We will work through two examples to make sure we understand how Machine Learning works in Spark.
-
-- [City Population and Median Sale Price](https://databricks.com/spark/getting-started-with-apache-spark/machine-learning)
-- [Predicting Survival on the Titanic](https://github.com/BYUI451/spark_ml)
+Build a predictive model using the [Seattle Public Library](https://github.com/BYUI451/project_library) data to support the library and its patrons.
 
 ## Brick by Databricks
 
