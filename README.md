@@ -11,7 +11,7 @@ __By the end of the semester, each student will be able to:__
 > 3. __Understand the differences and benefits of current industry technologies for big data storage and analysis.__   
 > 4. __Leverage parallel processing for analysis.__   
 
-_The course follows these principles of teaching Data Science;_[^1]
+_The course follows [these principles](https://arxiv.org/ftp/arxiv/papers/1612/1612.07140.pdf) of teaching Data Science;_
 
 > 1. Organize the course around a set of diverse case studies
 > 2. Integrate computing into every aspect of the course
@@ -88,7 +88,7 @@ The class performance is tracked in four areas - __impact, involvement, hours, a
 
 - __Concept:__ When you are on a team, you should earn a reputation for knowledge in a few specific areas.  You want to be the person that everyone knows they can ask to get the right answer.  Find your niche and hone your skills. You should find moments to offer your help in these areas.
 
-- __Class:__ _We will have coding challenges during class.  Some will take the entire period, and others will be short concepts before we start class.  All challenges will be announced at least 24 hours before the class period they occur, along with a programming topic. Also, you are responsible for helping your team members debug their code during the projects._
+- __Class:__ _We will have coding challenges during class.  Some will take the multiple days, the entire period, or will be short concepts before we start class.  All challenges will be announced at least 24 hours before the class period they occur, along with a programming topic. Also, you are responsible for helping your team members debug their code during the projects._
 
 ### Competency Scale
 
@@ -144,6 +144,4 @@ If you feel you have greatly exceeded one of the competency areas, you can use t
 > I was only recognized as a key contributor on one project.  However, I worked 107 hours and stayed involved in all work during class. As such, I request a B.
 
 > I only worked 50 hours in this class.  However, I got all 3s on my coding challenges and a 4 on the final coding challenge. Also, I was a key contributor on 5 projects and never missed class. I request an A-.
-
-[^1]: https://arxiv.org/ftp/arxiv/papers/1612/1612.07140.pdf
 
