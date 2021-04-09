@@ -32,3 +32,15 @@ This [LinkedIn Learning guide](https://www.linkedin.com/pulse/free-linkedin-lear
 - [Data Serialization](https://devopedia.org/data-serialization)
 - [Delta lake with Spark: What and Why?](https://towardsdatascience.com/delta-lake-with-spark-what-and-why-6d08bef7b963)
 - [MIT study finds ‘systematic’ labeling errors in popular AI benchmark datasets](https://venturebeat.com/2021/03/28/mit-study-finds-systematic-labeling-errors-in-popular-ai-benchmark-datasets/)
+
+-----
+
+- [Learning Spark](https://databricks.com/p/ebook/learning-spark-from-oreilly)
+- [Spark Programming Guide](https://spark.apache.org/docs/latest/quick-start.html)
+- [SparkSQL](https://spark.apache.org/docs/latest/sql-getting-started.html)
+- [Spark by {Examples}](https://sparkbyexamples.com/pyspark-tutorial/)
+- [pyspark-examples](https://github.com/spark-examples/pyspark-examples)
+- [Mastering Spark with R](https://therinspark.com/)
+- [Spark from R](https://sparkfromr.com/index.html)
+
+
