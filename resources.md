@@ -1,0 +1,34 @@
+# Learning resources
+
+We don't have a 'textbook' from which we will asign readings. This document tracks the key references that previous students have found valueable.
+
+## LinkedIn Learning
+
+This [LinkedIn Learning guide](https://www.linkedin.com/pulse/free-linkedin-learning-college-students-step-marcelo-wilen-menezes/) shows you how to get access for free as a student.
+
+- [DevOps for Data Scientists](https://www.linkedin.com/learning/devops-for-data-scientists)
+- [Introduction to Spark SQL and DataFrames](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes)
+- [Azure Spark Databricks Essential Training](https://www.linkedin.com/learning/azure-spark-databricks-essential-training)
+- [Apache Spark Essential Training](https://www.linkedin.com/learning/apache-spark-essential-training)
+- [Apache PySpark by Example](https://www.linkedin.com/learning/apache-pyspark-by-example)
+
+## YouTube
+
+- [How Data Engineering Works](https://www.youtube.com/watch?v=qWru-b6m030&t=741s)
+- [Docker For Beginners: From Docker Desktop to Deployment](https://www.youtube.com/watch?v=i7ABlHngi1Q)
+
+## O'Reilly Media
+
+- [Mastering Big Data Analytics with PySpark (Video)](https://learning.oreilly.com/videos/mastering-big-data/9781838640583/9781838640583-video1_1)
+- [Applied Natural Language Processing in the Enterprise](https://learning.oreilly.com/library/view/applied-natural-language/9781492062561/#toc)
+- [Azure Data Engineering Cookbook](https://learning.oreilly.com/library/view/azure-data-engineering/9781800206557/cover.xhtml)
+- [PySpark Cookbook](https://learning.oreilly.com/library/view/pyspark-cookbook/9781788835367/)
+- [Introduction to PySpark](https://learning.oreilly.com/videos/introduction-to-pyspark/9781771375535/)
+- [Spark: The Definitive Guide](https://learning.oreilly.com/library/view/spark-the-definitive/9781491912201/)
+- [Advanced Analytics with Spark, 2nd Edition](https://learning.oreilly.com/library/view/advanced-analytics-with/9781491972946/#toc)
+
+## Other fun links
+
+- [Data Serialization](https://devopedia.org/data-serialization)
+- [Delta lake with Spark: What and Why?](https://towardsdatascience.com/delta-lake-with-spark-what-and-why-6d08bef7b963)
+- [MIT study finds ‘systematic’ labeling errors in popular AI benchmark datasets](https://venturebeat.com/2021/03/28/mit-study-finds-systematic-labeling-errors-in-popular-ai-benchmark-datasets/)
