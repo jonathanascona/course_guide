@@ -9,7 +9,7 @@ __By the end of the semester, each student will be able to:__
 > 1. __Integrate and extend previously learned data science tools to analyze remote and distributed data in business contexts.__   
 > 2. __Explore, interpret, conceptualize, and validate assumptions of data at scale.__   
 > 3. __Understand the differences and benefits of current industry technologies for big data storage and analysis.__   
-> 4. __Leverage parallel processing for analysis.__   
+> 4. __Leverage distributed computing for analysis.__   
 
 _The course follows [these principles](https://arxiv.org/ftp/arxiv/papers/1612/1612.07140.pdf) of teaching Data Science;_
 
@@ -21,6 +21,16 @@ _The course follows [these principles](https://arxiv.org/ftp/arxiv/papers/1612/1
 
 You will find value in reading my [learning manifesto](https://datathink.io/my-learning-manifesto-aka-teaching-philosophy/).
 
+### Is this course a data engineering course?
+
+It is a 'big data programming and analytics' course focused on the data scientist needs.  We touch all the same tools that a data engineer would use; however, we focus on how data scientists would use those big data tools for management and business decisions.  
+
+Data engineering is ‘big client’ (building pipelines and tools that touch 1000's) with small daily changes (refine systems and deliver quicker results). In contrast, data science is 'small client' (addressing the needs of 10's in management) with ‘big change’ in modeling and data sources (propose the latest methods and demo the data munging and value).
+
+A data engineer would spend more of their time talking with IT and CS partners.  Also, they would interact heavily with the data scientists.  The data engineer would translate for the data scientist into the IT and CS space, and the data scientist would translate for the data engineer into the business and business need space. A data scientist would spend less of their time talking with IT and CS than a data engineer.
+
+With all of that said, the course is open-ended enough that students can propose more data engineering applications if it meets the larger project's needs we are tackling.  Finally, many people will wear the data science and data engineering hat at the same time.   
+
 ## Competency Assumptions
 
 We assume that you have experience using data science programming in Python as practiced in [CSE 250](https://www.byui.edu/catalog#/courses/view/5ea712631b09e725002330b2).  You will also need a background in data science programming in R as practiced in [CSE 350 / Math 335](https://www.byui.edu/catalog#/courses/view/5e504d12e9601d250042817a) or experience with Machine Learning as practiced in [CSE 450](https://www.byui.edu/catalog#/courses/view/5d026037f45fa12400239500). You can see all the [prerequisites at the BYU-I Catalog](https://www.byui.edu/catalog#/courses/rJnglmegB?bc=true&bcCurrent=Big%20Data%20Programming%20%26%20Analytics&bcItemType=Courses)
@@ -28,6 +38,17 @@ We assume that you have experience using data science programming in Python as p
 ## Course Format
 
 _This course assumes that you are capable of guided learning and working in teams._
+
+### What does guided learning and working in teams mean?
+
+The class runs like a start-up. We will work together to solve big-data problems as a ‘company.’ We have the mandate to learn ‘big data programming’ and tackle complex data science problems. At the end of the semester, we should all feel more comfortable with Docker, Pyspark, SparkSQL, and Databricks.  How we get from week 1 to week 13 will be our team’s choice. You should not expect anything about this class to be ‘traditional’ in the context of academia. For example,
+
+- We will all take turns providing guides on how to use the tools.
+- We will work in smaller teams but as a class team to make decisions about our projects and work.
+- The class will be treated as working group meetings to mimic my industry experience as much as possible.
+- If you need someone to give you due dates and precisely what you should read or do each night, this class will push you into a new paradigm for education.
+
+Hopefully, you will see how your previous data science and design thinking courses give you a foundation to build, learn, and develop using big data tools to gain empathy for our data and clients, ideate on proposed solutions, and prototype our end products.
 
 ### Preparation
 
