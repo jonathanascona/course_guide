@@ -27,6 +27,11 @@ This [LinkedIn Learning guide](https://www.linkedin.com/pulse/free-linkedin-lear
 - [Spark: The Definitive Guide](https://learning.oreilly.com/library/view/spark-the-definitive/9781491912201/)
 - [Advanced Analytics with Spark, 2nd Edition](https://learning.oreilly.com/library/view/advanced-analytics-with/9781491972946/#toc)
 
+## Function References
+
+- [pyspark.sql.functions](https://spark.apache.org/docs/latest/api/python/reference/pyspark.sql.html#functions)
+- [pyspark column methods](https://spark.apache.org/docs/latest/api/python/reference/pyspark.sql.html#column-apis)
+
 ## Other fun links
 
 - [Data Serialization](https://devopedia.org/data-serialization)
