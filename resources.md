@@ -1,6 +1,6 @@
 # Learning resources
 
-We don't have a 'textbook' from which we will asign readings. This document tracks the key references that previous students have found valueable.
+We don't have a 'textbook' from which we will asign readings. This document tracks the key references that previous students have found valuable.
 
 ## LinkedIn Learning
 
@@ -32,6 +32,10 @@ This [LinkedIn Learning guide](https://www.linkedin.com/pulse/free-linkedin-lear
 - [pyspark.sql.functions](https://spark.apache.org/docs/latest/api/python/reference/pyspark.sql.html#functions)
 - [pyspark column methods](https://spark.apache.org/docs/latest/api/python/reference/pyspark.sql.html#column-apis)
 - [Exploring column methods (Examples)](https://mungingdata.com/apache-spark/column-methods/)
+
+## Databricks books
+
+- [The Big Book of Machine Learning Use Cases](https://databricks.com/p/ebook/big-book-of-machine-learning-use-cases?utm_source=databricks&utm_medium=nurture&utm_campaign=7013f000000cWHAAA2)
 
 ## Other fun links
 
