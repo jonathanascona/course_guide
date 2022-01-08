@@ -11,17 +11,6 @@ As we get into this course's tools, we will have 3-8 'small projects' done with 
 
 Docker is used everywhere the cloud is used.  Both data scientists and computer scientists leverage Docker in their workflows.  We will gain familiarity with the docker process but primarily use Docker as a pre-developed tool to access tools like Jupyter Notebooks, Spark, Python, and R without needing to configure our computers.
 
-### Figuring out Docker for Data Science
-
-- __Team__, _5-days_
-
-We will use the [all-spark-notebook](https://hub.docker.com/r/jupyter/all-spark-notebook) to create our data science container where we will examine the [IRS 990 Master Files](https://drive.google.com/drive/folders/1uqm_nH0D6U8Beqyr7jLrPO1Scl5tJbKs?usp=sharing). You can download the files from the links in the [readme](https://docs.google.com/document/d/1ph6YioRu3aeXBM4IEIOS7kbUuwJyhz0yxCOIyxatffU/edit?usp=sharing) or use your BYUI login to Google drive to see the files in Google Drive.
-
-The IRS provides a few Master Files that list all [Exempt Organizations](https://www.irs.gov/charities-non-profits/exempt-organizations-business-master-file-extract-eo-bmf) with over 2 million organizations listed. Complete an exploratory analysis that provides a summary and story of the data provided.  
-
-1. Python and pandas
-2. R and dplyr
-
 ### Docker Deep Dive
 
 - __Partner__, _3-days_
