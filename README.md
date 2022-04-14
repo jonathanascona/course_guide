@@ -1,6 +1,6 @@
 # Syllabus
 
-You can [schedule a time to visit with me](https://byuistats.github.io/schedule.html), if needed.
+[Schedule a time to visit with me](https://byuidatascience.github.io/visit/hathaway/), if needed.
 
 ## Overview
 
@@ -27,7 +27,17 @@ We use [Pyspark](https://databricks.com/glossary/pyspark) and [SparkSQL](https:/
 
 ### What are the assignments?
 
-The semester is relatively open-ended as to the work you submit for evaluation.  Each class will pick their path for a business venture with the supplied 'big data' provided in week 1.  In general, we will work in groups, with each class participant submitting individual work various times throughout the semester. Often, the following challenges occur.
+The semester is relatively open-ended as to the work you submit for evaluation.  Each class will pick their path for a business venture with the supplied 'big data' provided in week 1.  In general, we will work in groups, with each class participant submitting individual work various times throughout the semester.
+
+#### Semester Project
+
+[SafeGraph](https://www.safegraph.com/) has graciously provided us free access to a few of their data sources.  We can use their [shop](https://shop.safegraph.com/?tab=datasets) or their [API](https://shop.safegraph.com/api/).
+
+The [project_safegraph repo](https://github.com/byuibigdata/project_safegraph) contains most of the details for our semester long SafeGraph project.
+
+#### Coding challenges
+
+Often, the following challenges occur.
 
 1. Your tools coding challenge (data munging and visualization)
 2. Spark Team Feature Build Challenge (with team)
@@ -64,6 +74,8 @@ The class runs like a start-up. We will work together to solve big-data problems
 
 Hopefully, you will see how your previous data science and design thinking courses give you a foundation to build, learn, and develop using big data tools to gain empathy for our data and clients, ideate on proposed solutions, and prototype our end products.
 
+You can read more about the [design thinking process](design_thinking_agile.md) to gain a fuller understanding of what will occur this semester.
+
 ### Preparation
 
 You are not assigned weekly readings. However, you are expected to spend 6 hours outside of class improving your Spark skills.  You are more than welcome to find your own resources if you don't want to leverage our [curated list of resources](resources.md). You can even work in your teams to create a study timeline to get through some of the resources.  You are expected to pace yourself and set a reading timeline.
@@ -81,17 +93,17 @@ The goal is to avoid traditional lectures in class. We will use class time for t
 
 These presentations are not expected to be high-impact proposals with highly polished slides. However, they should be organized and clear as your slides will persuade the class to move with your group's decision.
 
-You can read more about
+You can read more about [small group presentations](presentations.md) to make sure your team is prepared.
 
 #### Learning and Training
 
-Each partner group will provide one 430-120 minute training on the class selected learning topics.  These presentations should have a hands-on coding activity and be self-contained in a GitHub repo within our [CSE451 GitHub organization](https://github.com/BYUI451).
+Each partner group will provide one 30-120 minute training on the class selected learning topics.  These presentations should have a hands-on coding activity and be self-contained in a GitHub repo within our [DS 460 GitHub organization](https://github.com/byuibigdata).
 
 ## Grading
 
 The grading system's influence on our thinking is a side effect of mass learning and academia. We are in a class at an accredited university and will have to manage this side effect. __However, we don’t have to let it control our learning, thinking, or work. Discovering and practicing pertinent industry skills should motivate each activity.__
 
-The class performance is tracked in four areas - __impact, involvement, hours, and understanding__. These areas generally map to how you will be valued at your future employer.  Each area is essential to maximize your perceived performance, but all areas do not need to be exceptional to earn the highest marks in this course or to survive in the industry.
+The class performance is tracked in four areas - __impact, involvement, hours, and understanding__. These areas generally map to how you will be valued by your future employer.  Each area is essential to maximize your perceived performance, but all areas do not need to be exceptional to earn the highest marks in this course or to survive in the industry.
 
 ### Impact
 
@@ -139,8 +151,8 @@ The below tables summarizes the specifications-based grading for the course.  Yo
 __A Details:__
 
 - Hours: 107
-- Understanding: A satisfactory score on more than half of the challenges or a near-perfect score on one of the challenges.
-- Involvement: Two or fewer conversations from me or the TA about your lack of participation or preparedness. Missing class multiple times.
+- Understanding: A satisfactory score on more than half of the challenges or a near-perfect score on one of the Spark focused challenges. All challenges must be completed.
+- Involvement: Two or fewer conversations from me or the TA about your lack of participation or preparedness. Missing class less than three times.
 - Impact: Multiple projects where you were recognized as a primary contributor (making more impact than half of your team). All projects include your fingerprints.
 
 __B Details:__
@@ -181,3 +193,10 @@ If you feel you have greatly exceeded one of the competency areas, you can use t
 
 > I only worked 50 hours in this class.  However, I got all 3s on my coding challenges and a 4 on the final coding challenge. Also, I was a key contributor on 5 projects and never missed class. I request an A-.
 
+## Links
+
+- [Design Thinking overview](design_thinking_agile.md)
+- [Spark resources](resources.md)
+- [On small group presentations](presentations.md)
+- [Big project general outline](big_project.md)
+- [Little project suggestions](little_projects.md)
