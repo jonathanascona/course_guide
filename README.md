@@ -29,10 +29,11 @@ We use [Pyspark](https://databricks.com/glossary/pyspark) and [SparkSQL](https:/
 
 The semester is relatively open-ended as to the work you submit for evaluation.  Each class will pick their path for a business venture with the supplied 'big data' provided in week 1.  In general, we will work in groups, with each class participant submitting individual work various times throughout the semester. Often, the following challenges occur.
 
-1. Spark Coding Challenge (data munging and feature creation)
-2. Spark Machine Learning Challenge (MLLib)
-3. Analytics Deployment App (Docker Application development and deployment on Azure)
-4. Team 30-120 minute tools and code training
+1. Your tools coding challenge (data munging and visualization)
+2. Spark Team Feature Build Challenge (with team)
+3. Spark Coding Challenge (data munging and feature creation in class)
+4. Analytics Deployment App (Streamlit and Docker)
+5. Team 30-120 minute tools and code training
 
 ### Is this course a data engineering course?
 
@@ -46,20 +47,20 @@ With all of that said, the course is open-ended enough to propose more data engi
 
 ## Competency Assumptions
 
-We assume that you have experience using data science programming in Python as practiced in [CSE 250](https://www.byui.edu/catalog#/courses/view/5ea712631b09e725002330b2).  You will also need a background in data science programming in R as practiced in [CSE 350 / Math 335](https://www.byui.edu/catalog#/courses/view/5e504d12e9601d250042817a) or experience with Machine Learning as practiced in [CSE 450](https://www.byui.edu/catalog#/courses/view/5d026037f45fa12400239500). You can see all the [prerequisites at the BYU-I Catalog](https://www.byui.edu/catalog#/courses/rJnglmegB?bc=true&bcCurrent=Big%20Data%20Programming%20%26%20Analytics&bcItemType=Courses)
+We assume that you have experience using data science programming in Python as practiced in [DS 250](https://www.byui.edu/catalog#/courses/HyZkmWq3Q).  You will also need a background in data science programming in R as practiced in [DS 350](https://www.byui.edu/catalog#/courses/r1lPvsfTe) or experience with Machine Learning as practiced in [CSE 450](https://www.byui.edu/catalog#/courses/view/5d026037f45fa12400239500). You can see all the [prerequisites at the BYU-I Catalog](https://www.byui.edu/catalog#/courses/rJnglmegB?bc=true&bcCurrent=Big%20Data%20Programming%20%26%20Analytics&bcItemType=Courses)
 
 ## Course Format
 
 _This course assumes that you are capable of guided learning and working in teams._
 
-### What do guided learning and working in teams mean?
+### What does guided learning and working in teams mean?
 
 The class runs like a start-up. We will work together to solve big-data problems as a ‘company.’ We have the mandate to learn ‘big data programming’ and tackle complex data science problems. At the end of the semester, we should all feel more comfortable with Docker, Pyspark, SparkSQL, and Databricks.  How we get from week 1 to week 13 will be our team’s choice. You should not expect anything about this class to be ‘traditional’ in the context of academia. For example,
 
 - We will all take turns providing guides on how to use the tools.
 - We will work in smaller teams but as a class team to make decisions about our projects and work.
 - The class will be treated as working group meetings to mimic my industry experience as much as possible.
-- If you need someone to give you due dates and precisely what you should read or do each night, this class will push you into a new paradigm for education.
+- __If you need someone to give you due dates and precisely what you should read or do each night, this class will push you into a new paradigm for education.__
 
 Hopefully, you will see how your previous data science and design thinking courses give you a foundation to build, learn, and develop using big data tools to gain empathy for our data and clients, ideate on proposed solutions, and prototype our end products.
 
@@ -79,6 +80,8 @@ The goal is to avoid traditional lectures in class. We will use class time for t
 #### Presentations
 
 These presentations are not expected to be high-impact proposals with highly polished slides. However, they should be organized and clear as your slides will persuade the class to move with your group's decision.
+
+You can read more about
 
 #### Learning and Training
 
