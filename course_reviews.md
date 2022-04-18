@@ -1,3 +1,12 @@
+# Course Feedback
+
+## Learning should 'burn' a little. Yes confusion is a good thing.
+
+> The concept of optimal confusion is key to understanding why confusion is good for us and why its categorized as an epistemic emotion-an emotion critical to knowledge acquisition and learning. It turns out that confusion, like many uncomfortable things in life, is vital for learning. According to research, confusion has the potential to motivate, lead to deep learning, and trigger problem solving. A study led by Sidney D’Mello found that when were trying to work through our confusion, we need to stop and think, engage in careful deliberation, develop a solution, and revise how we approach the next problem.
+
+__[See short post for reference](https://educate.datathink.io/posts/desirable-difficulty/)__
+## Student Feedback (with my commentary)
+
 > One thing that was really hard was the total blindness I felt almost the entire semester. I get that that was kind of the point, but it really was hitting a brick wall all semester. I think it affected everyone in the class's hours in one of two ways: either they felt totally lost so didn't put in any hours, or they felt like they had to work extra hard to make any progress at all and went way overboard. I'm in the latter category. I think making the end goal a little less foggy earlier would be a good thing for everyone. __Spring 2022 Student__
 
 - __Fantastic comments:__ _The feeling described is what we need to get comfortable experiencing. Open-ended problems have this issue. Remember, the class decides the end goal. Not me._
