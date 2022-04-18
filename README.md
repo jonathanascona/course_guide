@@ -70,7 +70,7 @@ The class runs like a start-up. We will work together to solve big-data problems
 - We will all take turns providing guides on how to use the tools.
 - We will work in smaller teams but as a class team to make decisions about our projects and work.
 - The class will be treated as working group meetings to mimic my industry experience as much as possible.
-- __If you need someone to give you due dates and precisely what you should read or do each night, this class will push you into a new paradigm for education.__
+- __If you need someone to give you due dates and precisely what you should read or do each night, this class will push you into a new paradigm for education.__ You can read [student feedback](course_reviews.md) to see how some have responded to the process of this course.
 
 Hopefully, you will see how your previous data science and design thinking courses give you a foundation to build, learn, and develop using big data tools to gain empathy for our data and clients, ideate on proposed solutions, and prototype our end products.
 
