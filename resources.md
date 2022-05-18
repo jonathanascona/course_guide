@@ -14,6 +14,8 @@ This [LinkedIn Learning guide](https://www.linkedin.com/pulse/free-linkedin-lear
 
 ## YouTube
 
+- [Apache Spark Core – Practical Optimization Daniel Tomes (Databricks)
+](https://www.youtube.com/watch?v=_ArCesElWp8)
 - [How Data Engineering Works](https://www.youtube.com/watch?v=qWru-b6m030&t=741s)
 - [Docker For Beginners: From Docker Desktop to Deployment](https://www.youtube.com/watch?v=i7ABlHngi1Q)
 
