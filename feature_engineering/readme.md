@@ -1,7 +1,20 @@
 # Creating Features for ML
 
+> So what is Feature Engineering?
+> 
+> Simply put, it is the art/science of representing data in the best way possible.
+>
+> [SACHIN JOGLEKAR](https://codesachin.wordpress.com/2016/06/25/non-mathematical-feature-engineering-techniques-for-data-science/)
+
+> At the end of the day, some machine learning projects succeed and some fail. What makes the difference? Easily the most important factor is the features used. Often, the raw data is not in a form that is amenable to learning, but you can construct features from it that are. This is typically where most of the effort in a machine learning project goes. It is often also one of the most interesting parts, where intuition, creativity and “black art” are as important as the technical stuff.
+>
+> [Pedro Domingos](https://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf)
+
 ## Feature creation overview
 
+Google provides a [Neural Network Plaground](https://playground.tensorflow.org/).  It is a great tools to help us see how feature engineering works in machine learning.
+
+- [Non-Mathematical Feature Engineering techniques for Data Science](https://codesachin.wordpress.com/2016/06/25/non-mathematical-feature-engineering-techniques-for-data-science/)
 - [Best Practices for Feature Engineering](https://elitedatascience.com/feature-engineering-best-practices)
 - [How to create useful features for Machine Learning](https://www.dataschool.io/introduction-to-feature-engineering/)
 - [Want to Ace Data Science Hackathons? This Feature Engineering Guide is for you](https://www.analyticsvidhya.com/blog/2020/06/feature-engineering-guide-data-science-hackathons/)
@@ -16,9 +29,9 @@ Jason Brownlee [provides some clear examples for our data formatting](https://ma
 
 ## References
 
-
 ### Time series
 
+- [Want to Ace Data Science Hackathons? This Feature Engineering Guide is for you](https://www.analyticsvidhya.com/blog/2020/06/feature-engineering-guide-data-science-hackathons/)
 - [Fine-Grained Time Series Forecasting at Scale With Facebook Prophet and Apache Spark: Updated for Spark 3](https://databricks.com/blog/2021/04/06/fine-grained-time-series-forecasting-at-scale-with-facebook-prophet-and-apache-spark-updated-for-spark-3.html)
 - [How (not) to use Machine Learning for time series forecasting: Avoiding the pitfalls](https://towardsdatascience.com/how-not-to-use-machine-learning-for-time-series-forecasting-avoiding-the-pitfalls-19f9d7adf424)
 - [How (not) to use Machine Learning for time series forecasting: The sequel](https://www.kdnuggets.com/2020/03/machine-learning-time-series-forecasting-sequel.html)
