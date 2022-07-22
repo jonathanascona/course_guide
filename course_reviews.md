@@ -5,7 +5,10 @@
 > The concept of optimal confusion is key to understanding why confusion is good for us and why its categorized as an epistemic emotion-an emotion critical to knowledge acquisition and learning. It turns out that confusion, like many uncomfortable things in life, is vital for learning. According to research, confusion has the potential to motivate, lead to deep learning, and trigger problem solving. A study led by Sidney D’Mello found that when were trying to work through our confusion, we need to stop and think, engage in careful deliberation, develop a solution, and revise how we approach the next problem.
 
 __[See short post for reference](https://educate.datathink.io/posts/desirable-difficulty/)__
+
 ## Student Feedback (with my commentary)
+
+### Student 1
 
 > One thing that was really hard was the total blindness I felt almost the entire semester. I get that that was kind of the point, but it really was hitting a brick wall all semester. I think it affected everyone in the class's hours in one of two ways: either they felt totally lost so didn't put in any hours, or they felt like they had to work extra hard to make any progress at all and went way overboard. I'm in the latter category. I think making the end goal a little less foggy earlier would be a good thing for everyone. __Spring 2022 Student__
 
@@ -26,3 +29,9 @@ __[See short post for reference](https://educate.datathink.io/posts/desirable-di
 > Overall, I enjoyed the class. I liked that the solution changed over time (I feel like that reflects how problem-solving usually goes), and that we learned more than PySpark (i.e., streamlit, docker, etc.). I enjoyed the free flow of the class and the freedom to express thoughts and ideas. I think that the course would benefit from a little more structure when learning technical skills. __Spring 2022 Student__
 
 - __Agreed:__ We continue to improve the structure around the technical skills. However, we are pushing the boundaries on this topic as well. We invite you to think of your instructor as an expensive consultant ($300-$500 an hour) that you want to leverage on elements of the programming that you can't quite figure out on your own.
+
+### Student 2
+
+> I think the intentional lack of rigid structure is a great mechanism for growth. I personally feel much more prepared for a real work environment after this class than any other class. Students who find this type of class frustrating seem to be the same students who would find dynamic work environments frustrating and should probably find a job where they are just told what to do and not have to worry about the independence and agency as much.
+
+- __Agreed:__ This student took control of their learning experience.  Please note that the class sets the direction in consultation with me.  I want you to feel what it means to have indepence and agency with high expectations.
