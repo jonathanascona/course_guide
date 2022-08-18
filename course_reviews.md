@@ -35,3 +35,11 @@ __[See short post for reference](https://educate.datathink.io/posts/desirable-di
 > I think the intentional lack of rigid structure is a great mechanism for growth. I personally feel much more prepared for a real work environment after this class than any other class. Students who find this type of class frustrating seem to be the same students who would find dynamic work environments frustrating and should probably find a job where they are just told what to do and not have to worry about the independence and agency as much.
 
 - __Agreed:__ This student took control of their learning experience.  Please note that the class sets the direction in consultation with me.  I want you to feel what it means to have indepence and agency with high expectations.
+
+### Student 3
+
+> Brother Hathaway is the WORST professor Ive ever had. Each class he would tell us, figure it out. The more advanced students would and then he would yell at the rest of the class calling us failures because we arent as advanced as the #1 student. To top it all off, he didnt teach. He had us do it, then gets mad when we don’t completely understand.
+
+- __Life is a journey:__ Well, 'WORST' is pretty intense. I think this student was actually an advanced student. At least he earned an A. He and his team earned my negative attention because of their work not because of other student's work. This class is built for the 'teacher' to work as a manager and mentor. It is worth reviewing the differents between mentors and teachers as [described here](https://mentorcruise.com/blog/whats-difference-between-teacher-vs-mentor/#:~:text=A%20teacher%20provides%20knowledge%20and,guide%20you%20through%20your%20vision.). 
+    - _"Mentorships are based on a mentor’s effective guidance of the mentee’s growth, whether professional or personal. As such, this is hard to quantify and is largely based on how the mentee decides to proceed following the mentor’s advice. On the other hand, a teacher instructs you on a subject matter based on a set of predefined criteria. Most of the time, the main goal of a teacher is to make sure that their students get great grades."_
+    - _"The mentor wills the mentee to self-discipline. The teacher instills learning through authority."_
