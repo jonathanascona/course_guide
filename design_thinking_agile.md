@@ -57,3 +57,38 @@ Russell Jurney provided some [Agile guidelines for data science projects](https:
 ## Notes
 
 See the [notes](notes.md) for other references that could be of value. You can look over the [a curated list of design thinking resources](https://byuidesignthinking.github.io/course_guide/readings/readings_table.html) to review more material on design thinking.
+
+### Josh's guide on Agile
+
+Roles in Agile -
+
+- **Product Owner:** creates a vision for the final software based on the customer’s needs (the teacher, from SafeGraph project description)
+- **Project Manager/Scrum Master:** each team would have one (set by the team, could change weekly). They are in charge or making sure everyone on the team is working productively. Leads the daily stand up meeting.
+- **Development Team:** The class teams.
+
+Sprint Planning (Monday every 2 weeks, could be done in 30min) -
+
+- We can create new backlog tasks that need to be done (create these in github even)
+- Tasks are assigned a difficulty rating (typically 1-5, 1 being relatively trivial, 5 being a multi person problem, or something that needs to be split into multiple tasks.)
+- As a class we discuss what things we are going to take from the backlog to work on for the next 2 weeks. (assigned to doing on github)
+
+Daily Stand Up (Every class period, first 5-10min, should be fast) -
+Each team could do it individually and then any big concerns could be brought up to the whole class.
+
+- What **did you work on** since the last stand up (over the last 2 days, or weekend)?
+- What are they **going to work on** over the next few days or weekend?
+- What are the **big issues** they are currently facing?
+
+Sprint Review Meeting (Every other Friday, starting on week 2; 30 min or half of class) -
+
+- Each group ‘presents’ or shares what they accomplished. Did they finish all of the assigned items from the backlog? Why or why not?
+- If a team didn’t finish something then it doesn’t hold up the deadline (end of semester), but for that team it carries over and they need to get more done on the following sprint.
+
+Sprint Retrospection (Same day as Review, following Monday, or done over slack on the weekend) -
+Each team discusses as a team:
+
+- What went well
+- What didn’t go well
+- What changes are going to be made if any?
+
+It’s all about **accountability, and communication** and if a team starts to get really behind then a conversation with the teacher may be warranted.A lot of the meetings could be a hybrid meeting since the project is being done by the whole class, but split into groups. A meeting could start as a team meeting and then expand where each Scrum Master is then a representative of their team for the class meeting.
