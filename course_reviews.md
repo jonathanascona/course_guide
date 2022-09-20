@@ -43,3 +43,9 @@ __[See short post for reference](https://educate.datathink.io/posts/desirable-di
 - __Life is a journey:__ Well, 'WORST' is pretty intense. I think this student was actually an advanced student. At least he earned an A. He and his team earned my negative attention because of their work not because of other student's work. This class is built for the 'teacher' to work as a manager and mentor. It is worth reviewing the differents between mentors and teachers as [described here](https://mentorcruise.com/blog/whats-difference-between-teacher-vs-mentor/#:~:text=A%20teacher%20provides%20knowledge%20and,guide%20you%20through%20your%20vision.). 
     - _"Mentorships are based on a mentor’s effective guidance of the mentee’s growth, whether professional or personal. As such, this is hard to quantify and is largely based on how the mentee decides to proceed following the mentor’s advice. On the other hand, a teacher instructs you on a subject matter based on a set of predefined criteria. Most of the time, the main goal of a teacher is to make sure that their students get great grades."_
     - _"The mentor wills the mentee to self-discipline. The teacher instills learning through authority."_
+
+### Student 4 (While in their internship after the class)
+
+> Hey Bro. Hathaway. Just want to say I learned a ton from your class last semester that I am now using at my internship in data engineering at XXXXX.
+
+- __Mimicking:__ I am doing all I can to mimic work not school. I would love to hear from many of you about how this class supported you while in the workforce.
