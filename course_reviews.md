@@ -54,8 +54,8 @@ __[See short post for reference](https://educate.datathink.io/posts/desirable-di
 
 > Brother Hathaway knows an incredible amount about the field. However, he is blatantly disrespectful to students, teaches false doctrine based on opinions, and acts as if he is the leading expert on every subject. If you try to question or challenge him he will ridicule you in front of the class rather than try to teach you in a dignified manner.
 
-- __Apology:__ I don't every want to be percieved as one that ridicules. If you feel this way, please come talk to me one-on-one. I also don't want to be disrespectful. However, I do have very high expectations and will communicate shortcomings.
-- __Leading Expert:__ I don't think I am a leading expert on many subjects. I think this student got a little frustrated one day in class when we were talking about dieting. He was the thin one and I was the fat one. Maybe he was right.
+- __Apology:__ I never want to be percieved as one that ridicules. If you feel this way, please come talk to me one-on-one. I also don't want to be disrespectful. However, I do have very high expectations and will communicate shortcomings.
+- __Leading Expert:__ I don't think I am a leading expert on many subjects. However, I have strong opinions on topics that I have researched. I think this student got a little frustrated one day in class when we were talking about dieting. He was the thin one and I was the fat one. Maybe he was right.
 - __False Doctrine:__ I found this comment amusing. I have made a concerted effort to share my faith in the first five minutes of class over the last few semesters. I enjoy the banter with you as we talk about more complicated elements of our theology. 
 
 For reference you can see the scoring of my Fall 2022 course (I bet the above review was from one of those two `Very Poor` and `Strongly Disagree` students).
