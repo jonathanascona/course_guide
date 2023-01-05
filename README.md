@@ -23,7 +23,7 @@ You will find value in reading my [learning manifesto](https://datathink.io/my-l
 
 ### Nice general outcomes. What tools are we using?
 
-We use [Pyspark](https://databricks.com/glossary/pyspark) and [SparkSQL](https://databricks.com/glossary/what-is-spark-sql#:~:text=Spark%20SQL%20is%20a%20Spark,on%20existing%20deployments%20and%20data.) within [Docker](https://hub.docker.com/r/jupyter/all-spark-notebook) and with [Databricks](https://databricks.com/).  We will also leverage Git and Github heavily in our class and team collaborations.
+We use [Pyspark](https://databricks.com/glossary/pyspark) and [SparkSQL](https://databricks.com/glossary/what-is-spark-sql#:~:text=Spark%20SQL%20is%20a%20Spark,on%20existing%20deployments%20and%20data.) within [Docker](https://hub.docker.com/r/jupyter/all-spark-notebook) and with [Databricks](https://databricks.com/).  We will also leverage [git](https://git-scm.com/) and [Github](https://github.com/) heavily in our class and team collaborations.
 
 ### What are the assignments?
 
@@ -31,9 +31,7 @@ The semester is relatively open-ended as to the work you submit for evaluation. 
 
 #### Semester Project
 
-[SafeGraph](https://www.safegraph.com/) has graciously provided us free access to a few of their data sources.  We can use their [shop](https://shop.safegraph.com/?tab=datasets) or their [API](https://shop.safegraph.com/api/).
-
-The [project_safegraph repo](https://github.com/byuibigdata/project_safegraph) contains most of the details for our semester long SafeGraph project.
+[SafeGraph](https://www.safegraph.com/) has graciously provided us free access to a few of their data sources. The [project_safegraph repo](https://github.com/byuibigdata/project_safegraph) contains most of the details for our semester long SafeGraph project.
 
 #### Coding challenges
 
@@ -67,9 +65,9 @@ _This course assumes that you are capable of guided learning and working in team
 
 The class runs like a start-up. We will work together to solve big-data problems as a ‘company.’ We have the mandate to learn ‘big data programming’ and tackle complex data science problems. At the end of the semester, we should all feel more comfortable with Docker, Pyspark, SparkSQL, and Databricks.  How we get from week 1 to week 13 will be our team’s choice. You should not expect anything about this class to be ‘traditional’ in the context of academia. For example,
 
-- We will all take turns providing guides on how to use the tools.
-- We will work in smaller teams but as a class team to make decisions about our projects and work.
-- The class will be treated as working group meetings to mimic my industry experience as much as possible.
+- We will all take turns providing guides on how to use the tools
+- We will work in smaller teams but as a class team to make decisions about our projects and work
+- The class will be treated as working group meetings to mimic my industry experience as much as possible
 - __If you need someone to give you due dates and precisely what you should read or do each night, this class will push you into a new paradigm for education.__ You can read [student feedback](course_reviews.md) to see how some have responded to the process of this course.
 
 Hopefully, you will see how your previous data science and design thinking courses give you a foundation to build, learn, and develop using big data tools to gain empathy for our data and clients, ideate on proposed solutions, and prototype our end products.
@@ -127,7 +125,7 @@ The class performance is tracked in four areas - __impact, involvement, hours, a
 
 - __Concept:__ Most employers expect you to work many hours each week.  If they only wanted specified products, they would hire consultants to deliver the product.  As a full-time employee, you will be given the space to figure out new domains and then guide the group on their implementation.  But you have to guide your work. As a data scientist, each day will have new unique challenges.
 
-- __Class:__ _Full-time employment for a 3-credit class at BYU-I is 9 hours a week (6 outside & 3 class). Putting in full hours all semester will be a crucial element in defining your final grade. Excellent performance in the other three areas could help you achieve the highest marks without meeting the total hours (But, generally you will need to put in hours to do well on the other three)._
+- __Class:__ _Full-time employment for a 3-credit class at BYU-I is 9 hours a week (6 outside & 3 inside class). Putting in full hours all semester will be a crucial element in defining your final grade. Excellent performance in the other three areas could help you achieve the highest marks without meeting the total hours (Generally, you will need to put in hours to do well on the other three)._
 
 ### Understanding
 
@@ -141,31 +139,31 @@ The class performance is tracked in four areas - __impact, involvement, hours, a
 
 The below tables summarizes the specifications-based grading for the course.  You should read the details below for further understanding.
 
-|  Grade  | Hours |  Understanding    | Involvement                            | Impact                    |
-| ------- | ----- | ----------------- | -------------------------------------- | ------------------------- |
-|  A      | 107   |   3 & 4           | < 3 warnings & < 3.1 hours class missing |   Active all & primary > 2   |
-|  B      | 98    |   3 & 3           | < 9.1 hours class missing or write-up  |   Active most & primary > 1   |
-|  C      | 75    |   3 anytime       | < 4 warnings                           |   Active often & primary > 0 |
-|  D      | 50    |   --              |   --                                   |      --                   |
+|  Grade  | Hours |  Understanding    | Involvement                              | Impact                       |
+| ------- | ----- | ----------------- | ---------------------------------------- | ---------------------------- |
+|  A      | 110   |   3's & 4         | < 3 warnings & < 3.1 hours class missing |   Active all & primary > 2   |
+|  B      | 90    |   3's on most     | < 9.1 hours class missing or write-up    |   Active most & primary > 1  |
+|  C      | 70    |   3 anytime       | < 4 warnings                             |   Active often & primary > 0 |
+|  D      | 50    |   --              |   --                                     |      --                      |
 
 __A Details:__
 
-- Hours: 107
-- Understanding: A satisfactory score on more than half of the challenges or a near-perfect score on one of the Spark focused challenges. All challenges must be completed.
+- Hours: 110
+- Understanding: A satisfactory score (3) on all the challenges and at least one perfect score (4) on one of the Spark focused challenges. All challenges must be completed.
 - Involvement: Two or fewer conversations from me or the TA about your lack of participation or preparedness. Missing class less than three times.
 - Impact: Multiple projects where you were recognized as a primary contributor (making more impact than half of your team). All projects include your fingerprints.
 
 __B Details:__
 
-- Hours: 98
+- Hours: 90
 - Understanding: A satisfactory score on more than half of the challenges.
 - Involvement: Missing more than 9 hours of class or getting a write-up for low engagement.
-- Impact: At least two projects where you were recognized as a primary contributor (making more impact than half of your team), and most projects include your fingerprints. 
+- Impact: At least one project where you were recognized as a primary contributor (making more impact than half of your team), and most projects include your fingerprints. 
 
 
 __C Details:__
 
-- Hours: 75
+- Hours: 70
 - Understanding: A satisfactory score on at least one coding challenge.
 - Involvement: Three or fewer conversations from me or the TA about your lack of participation or preparedness.
 - Impact: At least one project where you were recognized as a primary contributor (making more impact than half of your team). Significant participation in at least half of the projects.
@@ -182,6 +180,10 @@ The coding challenges will be graded on a four-point scale:
 2. Some code aligns with the challenge.
 3. Strong performance with satisfactory code.
 4. Near flawless performance with clean and concise code.
+
+#### Grade Request Letter
+
+At the end of the semester you will be responsible to submit a completed grade request letter.
 
 #### Negotiating Competency Grade
 
