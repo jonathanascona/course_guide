@@ -32,7 +32,7 @@ __[See short post for reference](https://educate.datathink.io/posts/desirable-di
 
 ### Student 2
 
-> I think the intentional lack of rigid structure is a great mechanism for growth. I personally feel much more prepared for a real work environment after this class than any other class. Students who find this type of class frustrating seem to be the same students who would find dynamic work environments frustrating and should probably find a job where they are just told what to do and not have to worry about the independence and agency as much.
+> I think the intentional lack of rigid structure is a great mechanism for growth. I personally feel much more prepared for a real work environment after this class than any other class. Students who find this type of class frustrating seem to be the same students who would find dynamic work environments frustrating and should probably find a job where they are just told what to do and not have to worry about the independence and agency as much. __Winter 2022__
 
 - __Agreed:__ This student took control of their learning experience.  Please note that the class sets the direction in consultation with me.  I want you to feel what it means to have indepence and agency with high expectations.
 
@@ -52,7 +52,7 @@ __[See short post for reference](https://educate.datathink.io/posts/desirable-di
 
 ### Student 5 (While taking the class)
 
-> Brother Hathaway knows an incredible amount about the field. However, he is blatantly disrespectful to students, teaches false doctrine based on opinions, and acts as if he is the leading expert on every subject. If you try to question or challenge him he will ridicule you in front of the class rather than try to teach you in a dignified manner.
+> Brother Hathaway knows an incredible amount about the field. However, he is blatantly disrespectful to students, teaches false doctrine based on opinions, and acts as if he is the leading expert on every subject. If you try to question or challenge him he will ridicule you in front of the class rather than try to teach you in a dignified manner. __Fall 2022 Student__
 
 - __Apology:__ I never want to be percieved as one that ridicules. If you feel this way, please come talk to me one-on-one. I also don't want to be disrespectful. However, I do have very high expectations and will communicate shortcomings.
 - __Leading Expert:__ I don't think I am a leading expert on many subjects. However, I have strong opinions on topics that I have researched. I think this student got a little frustrated one day in class when we were talking about dieting. He was the thin one and I was the fat one. Maybe he was right.
