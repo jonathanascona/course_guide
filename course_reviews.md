@@ -6,6 +6,12 @@
 
 __[See short post for reference](https://educate.datathink.io/posts/desirable-difficulty/)__
 
+[Annie Murphy Paul describes it this way](https://spencerauthor.com/why-confusion-leads-to-increased-engagement/):
+
+> We short-circuit this process of subconscious learning, however, when we rush in too soon with an answer. It’s better to allow that confused, confounded feeling to last a little longer—for two reasons. First, not knowing the single correct way to resolve a problem allows us to explore a wide variety of potential explanations, thereby giving us a deeper and broader sense of the issues involved. Second, the feeling of being confused, of not knowing what’s up, creates a powerful drive to figure it out. We’re motivated to look more deeply, search more vigorously for a solution, and in so doing we see and understand things we would not have, had we simply been handed the answer at the outset.
+
+Let's watch [this video](https://youtu.be/eVtCO84MDj8)
+
 ## Student Feedback (with my commentary)
 
 ### Student 1
