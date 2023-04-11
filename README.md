@@ -19,7 +19,7 @@ _The course follows [these principles](https://arxiv.org/ftp/arxiv/papers/1612/1
 > 4. Structure course activities to realistically mimic a data scientist’s experience
 > 5. Demonstrate the importance of critical thinking/skepticism through examples
 
-You will find value in reading my [learning manifesto](https://datathink.io/my-learning-manifesto-aka-teaching-philosophy/).
+You will find value in reading my [learning manifesto](https://educate.datathink.io/posts/teaching-manifesto-hathaway/).
 
 ### Nice general outcomes. What tools are we using?
 
