@@ -67,3 +67,17 @@ Let's watch [this video](https://youtu.be/eVtCO84MDj8)
 For reference you can see the scoring of my Fall 2022 course (I bet the above review was from one of those two `Very Poor` and `Strongly Disagree` students).
 
 ![](img/ds460_fa22.jpg)
+
+### Two FA23 Students
+
+|                    | FA23 Student 1                                               | FA23 Student 2                                               |
+| ------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| Teaching  ability  | I feel like I wasted this semester in the class since I now know that I will likely never use or need any of the skills I was taught in this class. | Most professors at BYUI are great people and good teachers. I would say Brother Hathaway is the exception in that he is a good person and an even better teacher. |
+| Like Industry      | I don’t know if I am lucky because I have a job in the field and this is not remotely close to how projects are ran. I feel very sorry for you if how this class ran is what your experience has been in the field. | First of all, this was a great class. I’m a big believer that this is closer to how the real world works compared to most classes. |
+| Topics covered     | As a last note, I have spoke with many senior data scientists at my workplace and they told me that the only places they have ever seen tools similar to the ones we learned in class were at FANG companies. They told me that I would almost never need to know anything more than pandas. | Most people would complain that the class was too challenging — I would argue it wasn’t challenging enough. Tracking your hours really helps you realize how much time you should be spending on the class. Most importantly, I learned a ton and feel way better equipped for my future career. |
+| Class organization | All I can say that I got from this class was anxiety stress, and had to return to therapy.  I sincerely hope that you improve this class to be an environment that students can feel safe and encouraged to learn in a way that is not fueled by fear or stress. | Tracking your hours really helps you realize how much time you should be spending on the class. Towards the middle of the semester, I was having trouble getting my hours in. So, I would have appreciated more projects/assignments that would’ve helped me get those hours in. It’s easiest for me to learn when I’m applying skills in projects, not just ‘learning’ through watching YouTube, etc. |
+| Grading            |                                                              | Re-grading seems similar to the grace and repentance the Savior offers and I think it’s awesome that Brother Hathaway offers it. |
+
+
+
+
