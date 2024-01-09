@@ -23,15 +23,15 @@ You will find value in reading my [learning manifesto](https://educate.datathink
 
 ### Nice general outcomes. What tools are we using?
 
-We use [Pyspark](https://databricks.com/glossary/pyspark) and [SparkSQL](https://databricks.com/glossary/what-is-spark-sql#:~:text=Spark%20SQL%20is%20a%20Spark,on%20existing%20deployments%20and%20data.) within [Docker](https://hub.docker.com/r/jupyter/all-spark-notebook) and with [Databricks](https://databricks.com/).  We will also leverage [git](https://git-scm.com/) and [Github](https://github.com/) heavily in our class and team collaborations.
+We use [Polars](https://docs.pola.rs/), [Pyspark](https://databricks.com/glossary/pyspark) and [SparkSQL](https://databricks.com/glossary/what-is-spark-sql#:~:text=Spark%20SQL%20is%20a%20Spark,on%20existing%20deployments%20and%20data.) within [Docker](https://hub.docker.com/r/jupyter/all-spark-notebook) and with [Databricks](https://databricks.com/).  We will also leverage [git](https://git-scm.com/) and [Github](https://github.com/) heavily in our class and team collaborations.
 
 ### What are the assignments?
 
-The semester is relatively open-ended as to the work you submit for evaluation.  Each class will pick their path for a business venture with the supplied 'big data' provided in week 1.  In general, we will work in groups, with each class participant submitting individual work various times throughout the semester.
+The semester is relatively open-ended as to the work you submit for evaluation.  Each class will pick their path for a business venture with the supplied 'big data' provided in the first few weeks.  We will generally work in groups, with each class participant submitting individual work at various times throughout the semester.
 
 #### Semester Project
 
-[SafeGraph](https://www.safegraph.com/) has graciously provided us free access to a few of their data sources. The [project_safegraph repo](https://github.com/byuibigdata/project_safegraph) contains most of the details for our semester long SafeGraph project.
+We can access varied big data sources from [Dewey](https://www.deweydata.io/). Our class will propose a project that leverages the [available data sets](https://app.deweydata.io/products) (note that you need to create an account to see the available data).
 
 #### Coding challenges
 
@@ -45,13 +45,13 @@ Often, the following challenges occur.
 
 ### Is this course a data engineering course?
 
-It is a 'big data programming and analytics' course focused on the data scientist's needs.  We touch all the same tools that a data engineer would use; however, we focus on how data scientists use those big data tools for management and business decisions.  
+It is a 'big data programming and analytics' course on the data scientist's needs.  We touch all the same tools a data engineer would use; however, we focus on how data scientists use those big data tools for management and business decisions.  
 
-Data engineering is ‘big client’ (building pipelines and tools that touch 1000's) with small daily changes (refine systems and deliver quicker results). In contrast, data science is 'small client' (addressing the needs of 10's in management) with ‘big change’ in modeling and data sources (propose the latest methods and demo the data munging and value).
+Data engineering is a ‘big client’ (building pipelines and tools that touch 1000's) with small daily changes (refine systems and deliver quicker results). In contrast, data science is a 'small client' (addressing the needs of 10s in management) with ‘big change’ in modeling and data sources (proposing the latest methods and demoing the data munging and value).
 
-A data engineer would spend more of their time talking with IT and CS partners.  Also, they would interact heavily with the data scientists.  The data engineer would translate for the data scientist into the IT and CS space, and the data scientist would translate for the data engineer into the business and business need space. A data scientist would spend less of their time talking with IT and CS than a data engineer.
+A data engineer would spend more time talking with IT and CS partners.  Also, they would interact heavily with the data scientists.  The data engineer would translate for the data scientist into the IT and CS space, and the data scientist would translate for the data engineer into the business and business need space. A data scientist would spend less time talking with IT and CS than a data engineer.
 
-With all of that said, the course is open-ended enough to propose more data engineering applications if it meets the larger project's needs we are tackling.  
+With all of that said, the course is open-ended enough to propose more data engineering applications if they meet the needs of the larger project we are tackling.  
 
 ## Competency Assumptions
 
@@ -63,20 +63,20 @@ _This course assumes that you are capable of guided learning and working in team
 
 ### What does guided learning and working in teams mean?
 
-The class runs like a start-up. We will work together to solve big-data problems as a ‘company.’ We have the mandate to learn ‘big data programming’ and tackle complex data science problems. At the end of the semester, we should all feel more comfortable with Docker, Pyspark, SparkSQL, and Databricks.  How we get from week 1 to week 13 will be our team’s choice. You should not expect anything about this class to be ‘traditional’ in the context of academia. For example,
+The class runs like a start-up. We will work together to solve big-data problems as a ‘company.’ We are mandated to learn ‘big data programming’ and tackle complex data science problems. At the end of the semester, we should all feel more comfortable with Polars, Plotly, Pyspark, SparkSQL, Docker, and Databricks.  Our team will choose how we get from week 1 to week 13. You should not expect anything about this class to be ‘traditional’ in the context of academia. For example,
 
 - We will all take turns providing guides on how to use the tools
-- We will work in smaller teams but as a class team to make decisions about our projects and work
+- We will work in smaller teams but as a class, team to make decisions about our projects and work
 - The class will be treated as working group meetings to mimic my industry experience as much as possible
 - __If you need someone to give you due dates and precisely what you should read or do each night, this class will push you into a new paradigm for education.__ You can read [student feedback](course_reviews.md) to see how some have responded to the process of this course.
 
 Hopefully, you will see how your previous data science and design thinking courses give you a foundation to build, learn, and develop using big data tools to gain empathy for our data and clients, ideate on proposed solutions, and prototype our end products.
 
-You can read more about the [design thinking process](design_thinking_agile.md) to gain a fuller understanding of what will occur this semester.
+You can read more about the [design thinking process](design_thinking_agile.md) to better understand what will occur this semester.
 
 ### Preparation
 
-You are not assigned weekly readings. However, you are expected to spend 6 hours outside of class improving your Spark skills.  You are more than welcome to find your own resources if you don't want to leverage our [curated list of resources](resources.md). You can even work in your teams to create a study timeline to get through some of the resources.  You are expected to pace yourself and set a reading timeline.
+You are not assigned weekly readings. However, you are expected to spend 6 hours outside class improving your Spark skills.  You are more than welcome to find your own resources if you don't want to leverage our [curated list of resources](resources.md). You can even work in your teams to create a study timeline to get through some resources.  You are expected to pace yourself and set a [learning timeline](learning_plan.md).
 
 ### Class Time
 
@@ -84,24 +84,24 @@ The goal is to avoid traditional lectures in class. We will use class time for t
 
 - **Presentation development:** Almost all work will be done with a partner or in teams. Each project done during the class will require a presentation.
 - **Decision point presentations:** Generally, these presentations will focus on class decision points where all groups will agree on a joint approach moving forward.
-- **Learning path proposals:** We will have a few moments in the semester where your team will propose the 2-3 week learning goals and present them to the class.
+- **Individual development projects:**
 - **Programming training:** As we decide on the learning proposals, the smaller student teams will take responsibility for developing a short activity for the class.
 
 #### Presentations
 
 These presentations are not expected to be high-impact proposals with highly polished slides. However, they should be organized and clear as your slides will persuade the class to move with your group's decision.
 
-You can read more about [small group presentations](presentations.md) to make sure your team is prepared.
+You can read more about [small group presentations](presentations.md) to ensure your team is prepared.
 
 #### Learning and Training
 
-Each partner group will provide one 30-120 minute training on the class selected learning topics.  These presentations should have a hands-on coding activity and be self-contained in a GitHub repo within our [DS 460 GitHub organization](https://github.com/byuibigdata).
+Each partner/group will provide one 15-120 minute training on the class-selected learning topics.  These presentations should have a hands-on coding activity and be self-contained in our devotional GitHub repo within our [DS 460 GitHub organization](https://github.com/byuibigdata).
 
 ## Grading
 
 The grading system's influence on our thinking is a side effect of mass learning and academia. We are in a class at an accredited university and will have to manage this side effect. __However, we don’t have to let it control our learning, thinking, or work. Discovering and practicing pertinent industry skills should motivate each activity.__
 
-The class performance is tracked in four areas - __impact, involvement, hours, and understanding__. These areas generally map to how you will be valued by your future employer.  Each area is essential to maximize your perceived performance, but all areas do not need to be exceptional to earn the highest marks in this course or to survive in the industry.
+The class performance is tracked in four areas - __impact, involvement, hours, and understanding__. These areas generally map to how your future employer will value you.  Each area is essential to maximize your perceived performance, but not all areas need to be exceptional to earn the highest marks in this course or to survive in the industry.
 
 ### Impact
 
@@ -133,30 +133,36 @@ The class performance is tracked in four areas - __impact, involvement, hours, a
 
 - __Concept:__ When you are on a team, you should earn a reputation for knowledge in a few specific areas.  You want to be the person that everyone knows they can ask to get the correct answer.  Find your niche and hone your skills. You should find moments to offer your help in these areas.
 
-- __Class:__ _We will have coding challenges during class.  Some will take multiple days, the entire period, or a few minutes before we start class.  All challenges will be announced at least 24 hours before the class period they occur, along with a programming topic. Also, you may be responsible for helping your team members debug their code during the projects._
+- __Class:__ _We will have coding challenges during the semester.  Some will take multiple days, the entire class period, or a few minutes before we start class.  All challenges will be announced at least 24 hours before the class period they occur, along with a programming topic._
+
+- __Class:__ _We will choose assignments from DS 350 and CSE 450 to replicate using medium and big data APIs we are learning in this class. You are expected to fully complete all assigned replication projects._
+
+- __Class:__ _Training devotionals must be shared by each student._ 
 
 ### Competency Scale
 
 The below tables summarizes the specifications-based grading for the course.  You should read the details below for further understanding.
 
-|  Grade  | Hours |  Understanding    | Involvement                              | Impact                       |
-| ------- | ----- | ----------------- | ---------------------------------------- | ---------------------------- |
-|  A      | 110   |   3's & 4         | < 3 warnings & < 3.1 hours class missing |   Active all & primary > 2   |
-|  B      | 90    |   3's on most     | < 9.1 hours class missing or write-up    |   Active most & primary > 1  |
-|  C      | 70    |   3 anytime       | < 4 warnings                             |   Active often & primary > 0 |
-|  D      | 50    |   --              |   --                                     |      --                      |
+|  Grade  | Hours |  Challenges           |   Replication |   Involvement                              | Impact                       |
+| ------- | ----- | --------------------- | ------------- | ---------------------------------------- | ---------------------------- |
+|  A      | 110   | 4 key & 3 or higher   | All complete  | < 3 warnings & < 3.1 hours class missing |   Active all & primary > 2   |
+|  B      | 90    |  3 key &  3's on most | < 2 missing   | < 9.1 hours class missing or write-up    |   Active most & primary > 1  |
+|  C      | 70    |   3 anytime           | < 3 missing   | < 4 warnings                             |   Active often & primary > 0 |
+|  D      | 50    |   --                  | |  --                                     |      --                      |
 
 __A Details:__
 
 - Hours: 110
-- Understanding: A satisfactory score (3) on all the challenges and at least one perfect score (4) on one of the Spark focused challenges. All challenges must be completed.
+- Challenges: A satisfactory score (3) on all the challenges and at least a near perfect score (3.8) on the key challenges. All challenges must be completed.
+- Replication: All replication assignments completed with full credit.
 - Involvement: Two or fewer conversations from me or the TA about your lack of participation or preparedness. Missing class less than three times.
 - Impact: Multiple projects where you were recognized as a primary contributor (making more impact than half of your team). All projects include your fingerprints.
 
 __B Details:__
 
 - Hours: 90
-- Understanding: A satisfactory score on more than half of the challenges.
+- Challenges: A satisfactory score on more than half of the challenges and all key challenges.
+- Replication: All but one replication assignments completed with full credit.
 - Involvement: Missing more than 9 hours of class or getting a write-up for low engagement.
 - Impact: At least one project where you were recognized as a primary contributor (making more impact than half of your team), and most projects include your fingerprints. 
 
@@ -164,7 +170,8 @@ __B Details:__
 __C Details:__
 
 - Hours: 70
-- Understanding: A satisfactory score on at least one coding challenge.
+- Challenges: A satisfactory score on at least one coding challenge.
+- Replication: All but two replication assignments completed with full credit.
 - Involvement: Three or fewer conversations from me or the TA about your lack of participation or preparedness.
 - Impact: At least one project where you were recognized as a primary contributor (making more impact than half of your team). Significant participation in at least half of the projects.
 
@@ -172,9 +179,9 @@ __D Details:__
 
 - Hours: 50
 
-#### Coding Challenges
+#### Coding Challenges & Replication Projects
 
-The coding challenges will be graded on a four-point scale:
+The coding challenges and replication projects will be graded on a four-point scale:
 
 1. Submitted work.
 2. Some code aligns with the challenge.
