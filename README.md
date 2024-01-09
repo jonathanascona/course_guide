@@ -55,7 +55,7 @@ With all of that said, the course is open-ended enough to propose more data engi
 
 ## Competency Assumptions
 
-We assume that you have experience using data science programming in Python as practiced in [DS 250](https://www.byui.edu/catalog#/courses/HyZkmWq3Q).  You will also need a background in data science programming in R as practiced in [DS 350](https://www.byui.edu/catalog#/courses/r1lPvsfTe) or experience with Machine Learning as practiced in [CSE 450](https://www.byui.edu/catalog#/courses/view/5d026037f45fa12400239500). You can see all the [prerequisites at the BYU-I Catalog](https://www.byui.edu/catalog#/courses/rJnglmegB?bc=true&bcCurrent=Big%20Data%20Programming%20%26%20Analytics&bcItemType=Courses)
+We assume that you have experience using data science programming in Python as practiced in [DS 250](https://www.byui.edu/catalog#/courses/HyZkmWq3Q).  You will also need a background in data science programming in R as practiced in [DS 350](https://www.byui.edu/catalog#/courses/r1lPvsfTe) or experience with Machine Learning as practiced in [CSE 450](https://www.byui.edu/catalog/#/courses/N1l4e2e2iW?q=450&itemTypes=courses&limit=20&skip=0&bc=true&bcCurrent=&bcCurrent=Machine%20Learning&bcItemType=courses). You can see all the [prerequisites at the BYU-I Catalog](https://www.byui.edu/catalog#/courses/rJnglmegB?bc=true&bcCurrent=Big%20Data%20Programming%20%26%20Analytics&bcItemType=Courses)
 
 ## Course Format
 
