@@ -31,7 +31,7 @@ This [LinkedIn Learning guide](https://www.linkedin.com/pulse/free-linkedin-lear
 
 ## Function References
 
-- [pyspark.sql.functions](https://spark.apache.org/docs/latest/api/python/reference/pyspark.sql.html#functions)
+- [pyspark.sql.functions]https://spark.apache.org/docs/latest/api/python/reference/pyspark.sql/index.html)
 - [pyspark column methods](https://spark.apache.org/docs/latest/api/python/reference/pyspark.sql.html#column-apis)
 - [Exploring column methods (Examples)](https://mungingdata.com/apache-spark/column-methods/)
 
