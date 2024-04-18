@@ -78,6 +78,23 @@ For reference you can see the scoring of my Fall 2022 course (I bet the above re
 | Class organization | All I can say that I got from this class was anxiety stress, and had to return to therapy.  I sincerely hope that you improve this class to be an environment that students can feel safe and encouraged to learn in a way that is not fueled by fear or stress. | Tracking your hours really helps you realize how much time you should be spending on the class. Towards the middle of the semester, I was having trouble getting my hours in. So, I would have appreciated more projects/assignments that would’ve helped me get those hours in. It’s easiest for me to learn when I’m applying skills in projects, not just ‘learning’ through watching YouTube, etc. |
 | Grading            |                                                              | Re-grading seems similar to the grace and repentance the Savior offers and I think it’s awesome that Brother Hathaway offers it. |
 
+### Student 8 (Upon Completing the course)
+
+> This class is very demanding but rewarding at the same time. I've learned so much about dealing with big data from getting, wrangling, visualizing data, and using data to make decisions.
+
+- __This is a data science course:__ _Using data to make decisions is the goal. If you leave saying that you learned this, I have done my job._
+
+> My biggest takeaway is that to learn or be good at something, pain is inevitable but the result is satisfying after you put in the work. I walked out of this class feeling like I am now capable of learning a new programming language on my own with resources found online. 
+
+- __Fantastic comments:__ _I want you to know that you can be a lifelong learner and that you do not need teachers or academia to pick up skills._
 
 
+> Also, don't let Brother Hathaway scare you. He seems harsh and might yell at you but he truly cares and loves his students. Don't be afraid to ask questions. 
+
+- __On Being Scary:__ _I do care for each of you. Most importantly, I care for the future you. At times, I let my care for the future you have much more weight than the current you._
+
+
+> If you don't ask for help, you might fail this class!
+
+- __Can we hear and Amen?:__ _This class runs open-ended. Please don't be afraid to ask questions to gain clarity. Even if you are worried about the response, you have to ask questions to move forward._
 
