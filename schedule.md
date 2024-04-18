@@ -1,2 +1,0 @@
-# Schedule and topics 
-
