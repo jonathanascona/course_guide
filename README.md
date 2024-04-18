@@ -27,21 +27,22 @@ We use [Polars](https://docs.pola.rs/), [Pyspark](https://databricks.com/glossar
 
 ### What are the assignments?
 
-The semester is relatively open-ended as to the work you submit for evaluation.  Each class will pick their path for a business venture with the supplied 'big data' provided in the first few weeks.  We will generally work in groups, with each class participant submitting individual work at various times throughout the semester.
+The semester is relatively open-ended regarding the work you submit for evaluation. In the first few weeks, each class will pick its path for a business venture using the 'big data' provided.  We will generally work in groups, with each class participant submitting individual work at various times throughout the semester.
 
-#### Semester Project
-
-We can access varied big data sources from [Dewey](https://www.deweydata.io/). Our class will propose a project that leverages the [available data sets](https://app.deweydata.io/products) (note that you need to create an account to see the available data).
-
-#### Coding challenges
+Review the current projects [here](https://github.com/byuibigdata#challenge-dates-and-links).
 
 Often, the following challenges occur.
 
 1. Your tools coding challenge (data munging and visualization)
 2. Spark Team Feature Build Challenge (with team)
-3. Spark Coding Challenge (data munging and feature creation in class)
+3. Spark Coding Challenges (data munging and feature creation in class)
 4. Analytics Deployment App (Streamlit and Docker)
 5. Team 30-120 minute tools and code training
+
+#### Semester Project
+
+We can access varied big data sources from [Dewey](https://www.deweydata.io/). Our class will propose a project that leverages the [available data sets](https://app.deweydata.io/products) (note that you need to create an account to see the available data).
+
 
 ### Is this course a data engineering course?
 
@@ -63,7 +64,7 @@ _This course assumes that you are capable of guided learning and working in team
 
 ### What does guided learning and working in teams mean?
 
-The class runs like a start-up. We will work together to solve big-data problems as a ‘company.’ We are mandated to learn ‘big data programming’ and tackle complex data science problems. At the end of the semester, we should all feel more comfortable with Polars, Plotly, Pyspark, SparkSQL, Docker, and Databricks.  Our team will choose how we get from week 1 to week 13. You should not expect anything about this class to be ‘traditional’ in the context of academia. For example,
+The class runs like a start-up. We will work together to solve big-data problems as a ‘company.’ We are mandated to learn ‘big data programming’ and tackle complex data science problems. At the end of the semester, we should all feel more comfortable with Polars, Visualization, Pyspark, SparkSQL, Docker, and Databricks.  Our team will choose how we get from week 1 to week 13. __You should not expect anything about this class to be ‘traditional’ in the context of academia.__ For example,
 
 - We will all take turns providing guides on how to use the tools
 - We will work in smaller teams but as a class, team to make decisions about our projects and work
@@ -155,7 +156,7 @@ The below tables summarizes the specifications-based grading for the course.  Yo
 __A Details:__
 
 - Hours: 110
-- Challenges: A satisfactory score (3) on all the challenges and at least a near perfect score (3.8) on the key challenges. All challenges must be completed.
+- Challenges: A satisfactory score (3) on all the challenges and at least a near perfect score (3.7 or higher) on the key challenges. All challenges must be completed.
 - Replication: All replication assignments completed with full credit.
 - Involvement: Two or fewer conversations from me or the TA about your lack of participation or preparedness. Missing class less than three times.
 - Impact: Multiple projects where you were recognized as a primary contributor (making more impact than half of your team). All projects include your fingerprints.
@@ -192,7 +193,7 @@ The coding challenges and replication projects will be graded on a four-point sc
 
 #### Grade Request Letter
 
-At the end of the semester you will be responsible to submit a completed grade request letter.
+At the end of the semester you will be responsible to submit a completed grade request letter. This may be a new concept to some of you. Please review the [example of a poorly worded letter with a discussion](grade_request_letter.md).
 
 #### Negotiating Competency Grade
 
