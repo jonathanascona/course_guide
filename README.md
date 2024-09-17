@@ -144,12 +144,12 @@ The class performance is tracked in four areas - __impact, involvement, hours, a
 
 The below tables summarizes the specifications-based grading for the course.  You should read the details below for further understanding.
 
-|  Grade  | Hours |  Challenges           |   Replication |   Involvement                              | Impact                       |
-| ------- | ----- | --------------------- | ------------- | ---------------------------------------- | ---------------------------- |
-|  A      | 110   | 4 key* & 3 or higher   | All complete  | < 3 warnings & < 3.1 hours class missing |   Active all & primary > 2   |
-|  B      | 90    |  3 key* &  3's on most | < 2 missing   | < 9.1 hours class missing or write-up    |   Active most & primary > 1  |
-|  C      | 70    |   3 anytime           | < 3 missing   | < 4 warnings                             |   Active often & primary > 0 |
-|  D      | 50    |   --                  | |  --                                     |      --                      |
+|  Grade  | Hours |  Challenges           |Oral/Written Challenge |   Replication |   Involvement                              | Impact                       |
+| ------- | ----- | --------------------- |---------------------- | ------------- | ---------------------------------------- | ---------------------------- |
+|  A      | 110   | 4 key* & 3 or higher  | pass 3                | All complete  | < 3 warnings & < 3.1 hours class missing |   Active all & primary > 2   |
+|  B      | 90    | 3 key* &  3's on most | pass 2                | < 2 missing   | < 9.1 hours class missing or write-up    |   Active most & primary > 1  |
+|  C      | 70    |   3 anytime           | pass 1                | < 3 missing   | < 4 warnings                             |   Active often & primary > 0 |
+|  D      | 50    |   --                  | --                    | --            |  --                                      |      --                      |
 
 *Key challenges are any Pyspark challenges and the app challenge at the end of the semester.
 
