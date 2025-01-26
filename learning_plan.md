@@ -7,6 +7,9 @@
 
 > For me, the two resources that I really anticipate using are LinkedIn learning and Databricks books. I feel like LinkedIn learning has excellent resourceses, and Databricks has very good interactive matertial, which I feel like is going to help me greatly in trying to learn Spark.
 
+> https://databricks.com/p/ebook/big-book-of-machine-learning-use-cases?utm_source=databricks&utm_medium=nurture&utm_campaign=7013f000000cWHAAA2
+
+> https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes
 
 
 
