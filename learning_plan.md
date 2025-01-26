@@ -5,6 +5,11 @@
 > Explore the proposed learning resources to find tools to help you best learn Spark.
 - __Submission:__ At the end of week two provide a review of the Spark learning materials you anticipate using.
 
+> For me, the two resources that I really anticipate using are LinkedIn learning and Databricks books. I feel like LinkedIn learning has excellent resourceses, and Databricks has very good interactive matertial, which I feel like is going to help me greatly in trying to learn Spark.
+
+
+
+
 ## Weeks 4-5 Learning Plan
 
 > You will have 3-6 hours a week to dive into Pyspark.
